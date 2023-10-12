@@ -1,4 +1,4 @@
-# SanathChandraLab1_Python-for-DS
+# PavithraLab1_Python-for-DS
 Project Summary:
 
 Project Title: E-Commerce Database Creation and Querying
